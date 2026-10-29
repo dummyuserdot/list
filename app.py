@@ -1,0 +1,6 @@
+print("hello") 
+print(100) 
+print(20 - 10) 
+print(20 * 10) 
+print(20 / 10) 
+print(20 + 10) 
